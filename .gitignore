@@ -3,3 +3,4 @@ build
 
 # Default target folder
 bin
+lib
